@@ -11,7 +11,7 @@ bft environment. Model has 3 parameters:
 Model produces size of node's task pool for chosen precision.
 
 Detailed information about task distribution problem can be found on 
-medium paper. 
+[medium article](https://medium.com/@neospcc/task-distribution-over-consensus-nodes-42f1349442ad).
 
 
 ## Usage
@@ -44,7 +44,7 @@ Relation between max pool size and obtained pool size is
 
 Last column is a number of tries to reduce pool size.
 
-There is also gnuplot file with example from medium paper:
+There is also gnuplot file with example from [medium article](https://medium.com/@neospcc/task-distribution-over-consensus-nodes-42f1349442ad):
 ```
 $ gnuplot
 Terminal type is now 'qt'
